@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:mealApp/screens/category_meal_screen.dart';
 import 'package:mealApp/screens/filters_screen.dart';
 
-import 'screens/categories_sceen.dart';
 import 'screens/meal_screen.dart';
 import 'screens/tabs_screen.dart';
 

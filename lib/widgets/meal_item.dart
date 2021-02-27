@@ -12,7 +12,6 @@ class MealItem extends StatelessWidget {
   final Complexity complexity;
   final Affordability affordability;
 
-
   MealItem({
     @required this.id,
     @required this.imageUrl,

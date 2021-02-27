@@ -1,6 +1,5 @@
 import '../models/meal.dart';
 
-
 const DUMMY_MEALS = const [
   Meal(
     id: 'm1',
@@ -351,3 +350,6 @@ const DUMMY_MEALS = const [
     isLactoseFree: true,
   ),
 ];
+
+List<Meal> filteredMeals = new List<Meal>.from(DUMMY_MEALS);
+List<Meal> favoriteMeals = [];
